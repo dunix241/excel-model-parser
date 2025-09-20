@@ -4,15 +4,14 @@ const fs = require("fs");
 module.exports = {
   config: {
     sheet: "Dữ liệu Du lịch",
-    range: "A30:I41",
-    output: "flights.json",
+    range: "A57:H64",
+    output: "voyages.json",
     headers: [
       "Direction",
       "IdNumber",
-      "Airline",
-      "Route",
       "DepartureTime",
       "ArrivalTime",
+      "GuestCount",
       "_",
       "Status",
       "Location",
@@ -20,16 +19,13 @@ module.exports = {
     handlers: [
       null,
       null,
-      null,
-      null,
       (cell) =>
         typeof cell === "number"
           ? new Date(Math.round(cell * 86400000)).toISOString().substr(11, 8)
           : cell,
-      (cell) =>
-        typeof cell === "number"
-          ? new Date(Math.round(cell * 86400000)).toISOString().substr(11, 8)
-          : cell,
+      (cell) => {
+        return cell.split(" ")[0] + ":00";
+      },
       // (cell) => new Date(cell),
       // (cell) => new Date(cell),
       // (cell) => +`${cell}`.replaceAll(".", "") * 1_000_000_000,
@@ -42,7 +38,17 @@ module.exports = {
       return { ...flight, Lng: +lng, Lat: +lat };
     },
     includeKeys: [],
-    excludeKeys: ["_", "Location"],
+    excludeKeys: ["_", "Location", "GuestCount"],
+    guestRanges: [
+      "I5:L9",
+      "I14:L18",
+      "I23:L27",
+      "I32:L36",
+      "I41:L45",
+      "I50:L54",
+      "I59:L63",
+      "I68:L72",
+    ],
   },
   process(workbook) {
     const worksheet = workbook.Sheets[this.config.sheet];

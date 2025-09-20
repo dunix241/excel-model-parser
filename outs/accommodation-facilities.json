@@ -1,0 +1,338 @@
+[
+  {
+    "Name": "Wyndham Garden Sonasea",
+    "CheckinCount": 123,
+    "CheckoutCount": 107,
+    "Status": "Còn phòng",
+    "Lng": 21.25,
+    "Lat": 107.48,
+    "StayingGuests": [
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Nguyễn Văn Hùng",
+        "Gender": "Nam",
+        "YearOfBirth": "1985"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Trần Thị Lan",
+        "Gender": "Nữ",
+        "YearOfBirth": "1990"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Kim Min Soo (Hàn)",
+        "Gender": "Nam",
+        "YearOfBirth": "1987"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Lê Văn Quốc",
+        "Gender": "Nam",
+        "YearOfBirth": "1995"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Park Ji Yeon (Hàn)",
+        "Gender": "Nữ",
+        "YearOfBirth": "1992"
+      }
+    ]
+  },
+  {
+    "Name": "Diamond Hotel",
+    "CheckinCount": 82,
+    "CheckoutCount": 91,
+    "Status": "Còn phòng",
+    "Lng": 21.28,
+    "Lat": 107.52,
+    "StayingGuests": []
+  },
+  {
+    "Name": "Minh Châu Beach Resort",
+    "CheckinCount": 61,
+    "CheckoutCount": 51,
+    "Status": "Hết phòng",
+    "Lng": 21.22,
+    "Lat": 107.55,
+    "StayingGuests": [
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Trần Văn Bình",
+        "Gender": "Nam",
+        "YearOfBirth": "1990"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Lê Thị Thảo",
+        "Gender": "Nữ",
+        "YearOfBirth": "1985"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Bùi Văn Hòa",
+        "Gender": "Nam",
+        "YearOfBirth": "1998"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Hồ Thị Liên",
+        "Gender": "Nữ",
+        "YearOfBirth": "1993"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Phạm Văn Cường",
+        "Gender": "Nam",
+        "YearOfBirth": "1987"
+      }
+    ]
+  },
+  {
+    "Name": "Lý Hân Homestay",
+    "CheckinCount": 21,
+    "CheckoutCount": 26,
+    "Status": "Còn phòng",
+    "Lng": 21.27,
+    "Lat": 107.5,
+    "StayingGuests": []
+  },
+  {
+    "Name": "Sonasea Resort",
+    "CheckinCount": 152,
+    "CheckoutCount": 141,
+    "Status": "Còn phòng",
+    "Lng": 21.26,
+    "Lat": 107.49,
+    "StayingGuests": [
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Kim Ji Hoon (Hàn)",
+        "Gender": "Nam",
+        "YearOfBirth": "1988"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Park Soo Min (Hàn)",
+        "Gender": "Nữ",
+        "YearOfBirth": "1991"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Nguyễn Văn Tùng",
+        "Gender": "Nam",
+        "YearOfBirth": "1985"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Vũ Thị Phương",
+        "Gender": "Nữ",
+        "YearOfBirth": "1990"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Lee Young Ja (Hàn)",
+        "Gender": "Nữ",
+        "YearOfBirth": "1987"
+      }
+    ]
+  },
+  {
+    "Name": "Hồng Ngọc Hotel",
+    "CheckinCount": 41,
+    "CheckoutCount": 46,
+    "Status": "Hết phòng",
+    "Lng": 21.28,
+    "Lat": 107.52,
+    "StayingGuests": [
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Đặng Văn Tiến",
+        "Gender": "Nam",
+        "YearOfBirth": "1992"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Nguyễn Thị Thanh",
+        "Gender": "Nữ",
+        "YearOfBirth": "1989"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Trần Văn Phong",
+        "Gender": "Nam",
+        "YearOfBirth": "1996"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Lê Thị Hồng",
+        "Gender": "Nữ",
+        "YearOfBirth": "1993"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Phạm Văn Hùng",
+        "Gender": "Nam",
+        "YearOfBirth": "1986"
+      }
+    ]
+  },
+  {
+    "Name": "Thái Hoàng Hotel",
+    "CheckinCount": 0,
+    "CheckoutCount": 0,
+    "Status": "Tạm ngưng hoạt động",
+    "Lng": 21.28,
+    "Lat": 107.52,
+    "StayingGuests": []
+  },
+  {
+    "Name": "Ngọc Vừng Homestay",
+    "CheckinCount": 26,
+    "CheckoutCount": 21,
+    "Status": "Còn phòng",
+    "Lng": 21.15,
+    "Lat": 107.58,
+    "StayingGuests": [
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Somchai Phrom",
+        "Gender": "Nam",
+        "YearOfBirth": "1990"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Nguyen Thi Mai",
+        "Gender": "Nữ",
+        "YearOfBirth": "1995"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Srisuk Chanthara",
+        "Gender": "Nữ",
+        "YearOfBirth": "1988"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Hoang Van Tuan",
+        "Gender": "Nam",
+        "YearOfBirth": "1992"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Chatchai Srisuk",
+        "Gender": "Nam",
+        "YearOfBirth": "1994"
+      }
+    ]
+  },
+  {
+    "Name": "Tuấn Ngọc Hotel",
+    "CheckinCount": 35,
+    "CheckoutCount": 32,
+    "Status": "Còn phòng",
+    "Lng": 21.28,
+    "Lat": 107.52,
+    "StayingGuests": [
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Bùi Văn Hưng",
+        "Gender": "Nam",
+        "YearOfBirth": "1985"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Hoàng Thị Lan Anh",
+        "Gender": "Nữ",
+        "YearOfBirth": "1990"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Đinh Văn Quang",
+        "Gender": "Nam",
+        "YearOfBirth": "1993"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Vũ Thị Hồng Nhung",
+        "Gender": "Nữ",
+        "YearOfBirth": "1987"
+      },
+      {
+        "UpdatedDate": {
+          "$date": "2025-09-21T17:00:00.000Z"
+        },
+        "FullName": "Lương Văn Hải",
+        "Gender": "Nam",
+        "YearOfBirth": "1996"
+      }
+    ]
+  },
+  {
+    "Name": "Dương Thanh Hotel",
+    "CheckinCount": 28,
+    "CheckoutCount": 29,
+    "Status": "Còn phòng",
+    "Lng": 21.28,
+    "Lat": 107.52,
+    "StayingGuests": []
+  }
+]

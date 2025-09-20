@@ -4,17 +4,15 @@ const fs = require("fs");
 module.exports = {
   config: {
     sheet: "Dữ liệu Du lịch",
-    range: "A30:I41",
-    output: "flights.json",
+    range: "A74:G83",
+    output: "accommodation-facilities.json",
     headers: [
-      "Direction",
-      "IdNumber",
-      "Airline",
-      "Route",
-      "DepartureTime",
-      "ArrivalTime",
+      "Name",
       "_",
+      "CheckinCount",
+      "CheckoutCount",
       "Status",
+      "__",
       "Location",
     ],
     handlers: [
@@ -39,10 +37,22 @@ module.exports = {
     ],
     map: (flight) => {
       const [lng, lat] = flight.Location.split(", ");
-      return { ...flight, Lng: +lng, Lat: +lat };
+      return { ...flight, Lng: +lng, Lat: +lat, StayingGuests: flight.Guests };
     },
     includeKeys: [],
-    excludeKeys: ["_", "Location"],
+    excludeKeys: ["_", "__", "Location", "Guests"],
+    guestRanges: [
+      "A5:D9",
+      false,
+      "A23:D27",
+      false,
+      "A41:D45",
+      "A50:D54",
+      false,
+      "A63:D67",
+      "A72:D76",
+      false,
+    ],
   },
   process(workbook) {
     const worksheet = workbook.Sheets[this.config.sheet];
