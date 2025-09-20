@@ -1,0 +1,134 @@
+[
+  {
+    "Direction": "Đến",
+    "IdNumber": "VJ231",
+    "Airline": "VietJet Air",
+    "Route": "Hà Nội (HAN) - Vân Đồn (VDO)",
+    "DepartureTime": "1970-01-01T00:00:00.000Z",
+    "ArrivalTime": 0.3333333333333333,
+    "Status": "Đã đến",
+    "Lng": 21.2086861111,
+    "Lat": 105.8038611111
+  },
+  {
+    "Direction": "Đến",
+    "IdNumber": "QH123",
+    "Airline": "Bamboo Airways",
+    "Route": "TP. Hồ Chí Minh (SGN) - Vân Đồn (VDO)",
+    "DepartureTime": "1970-01-01T00:00:00.000Z",
+    "ArrivalTime": 0.4375,
+    "Status": "Đã khởi hành (hoãn 15 phút)",
+    "Lng": 10.8189166667,
+    "Lat": 106.6521736111
+  },
+  {
+    "Direction": "Đến",
+    "IdNumber": "VN123",
+    "Airline": "Vietnam Airlines",
+    "Route": "Đà Nẵng (DAD) - Vân Đồn (VDO)",
+    "DepartureTime": "1970-01-01T00:00:00.000Z",
+    "ArrivalTime": 0.4583333333333333,
+    "Status": "Đã khởi hành",
+    "Lng": 16.0439611111,
+    "Lat": 108.1992166667
+  },
+  {
+    "Direction": "Đến",
+    "IdNumber": "VJ245",
+    "Airline": "VietJet Air",
+    "Route": "Hà Nội (HAN) - Vân Đồn (VDO)",
+    "DepartureTime": "1970-01-01T00:00:00.000Z",
+    "ArrivalTime": 0.5208333333333334,
+    "Status": "Chưa khởi hành",
+    "Lng": 21.2086861111,
+    "Lat": 105.8038611111
+  },
+  {
+    "Direction": "Đến",
+    "IdNumber": "QH145",
+    "Airline": "Bamboo Airways",
+    "Route": "TP. Hồ Chí Minh (SGN) - Vân Đồn (VDO)",
+    "DepartureTime": "1970-01-01T00:00:00.000Z",
+    "ArrivalTime": 0.6875,
+    "Status": "Chưa khởi hành",
+    "Lng": 10.8189166667,
+    "Lat": 106.6521736111
+  },
+  {
+    "Direction": "Đến",
+    "IdNumber": "VN145",
+    "Airline": "Vietnam Airlines",
+    "Route": "Hà Nội (HAN) - Vân Đồn (VDO)",
+    "DepartureTime": "1970-01-01T00:00:00.000Z",
+    "ArrivalTime": 0.7708333333333334,
+    "Status": "Chưa khởi hành",
+    "Lng": 21.2086861111,
+    "Lat": 105.8038611111
+  },
+  {
+    "Direction": "Đi",
+    "IdNumber": "VJ232",
+    "Airline": "VietJet Air",
+    "Route": "Vân Đồn (VDO) - Hà Nội (HAN)",
+    "DepartureTime": "1970-01-01T00:00:00.000Z",
+    "ArrivalTime": 0.375,
+    "Status": "Đã đến",
+    "Lng": 21.2313888889,
+    "Lat": 107.3975
+  },
+  {
+    "Direction": "Đi",
+    "IdNumber": "QH124",
+    "Airline": "Bamboo Airways",
+    "Route": "Vân Đồn (VDO) - TP. Hồ Chí Minh (SGN)",
+    "DepartureTime": "1970-01-01T00:00:00.000Z",
+    "ArrivalTime": 0.4791666666666667,
+    "Status": "Đã khởi hành",
+    "Lng": 21.2313888889,
+    "Lat": 107.3975
+  },
+  {
+    "Direction": "Đi",
+    "IdNumber": "VN124",
+    "Airline": "Vietnam Airlines",
+    "Route": "Vân Đồn (VDO) - Đà Nẵng (DAD)",
+    "DepartureTime": "1970-01-01T00:00:00.000Z",
+    "ArrivalTime": 0.5,
+    "Status": "Bị hoãn",
+    "Lng": 21.2313888889,
+    "Lat": 107.3975
+  },
+  {
+    "Direction": "Đi",
+    "IdNumber": "VJ246",
+    "Airline": "VietJet Air",
+    "Route": "Vân Đồn (VDO) - Hà Nội (HAN)",
+    "DepartureTime": "1970-01-01T00:00:00.000Z",
+    "ArrivalTime": 0.5625,
+    "Status": "Chưa khởi hành",
+    "Lng": 21.2313888889,
+    "Lat": 107.3975
+  },
+  {
+    "Direction": "Đi",
+    "IdNumber": "QH146",
+    "Airline": "Bamboo Airways",
+    "Route": "Vân Đồn (VDO) - TP. Hồ Chí Minh (SGN)",
+    "DepartureTime": "1970-01-01T00:00:00.000Z",
+    "ArrivalTime": 0.7291666666666666,
+    "Status": "Chưa khởi hành",
+    "Lng": 21.2313888889,
+    "Lat": 107.3975
+  },
+  {
+    "Direction": "Đi",
+    "IdNumber": "VN146",
+    "Airline": "Vietnam Airlines",
+    "Route": "Vân Đồn (VDO) - Hà Nội (HAN)",
+    "DepartureTime": "1970-01-01T00:00:00.000Z",
+    "ArrivalTime": 0.8125,
+    "Status": "Chưa khởi hành",
+    "Lng": 21.2313888889,
+    "Lat": 107.3975
+  }
+]

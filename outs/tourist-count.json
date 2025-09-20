@@ -1,0 +1,30 @@
+[
+  {
+    "Year": "Năm 2025 (dự báo cả năm)",
+    "TouristCount": 4168000,
+    "Domestic": "3334400 (26% so với cùng kỳ) (80%)",
+    "International": "833600 (18% so với cùng kỳ) (20%)",
+    "Growth": 0.24
+  },
+  {
+    "Year": "Quý I/2025",
+    "TouristCount": 1251000,
+    "Domestic": "1000800 (30 % so với cùng kỳ) ",
+    "International": "250200 (22% so với cùng kỳ)",
+    "Growth": 0.28
+  },
+  {
+    "Year": "Quý II/2025",
+    "TouristCount": 1251000,
+    "Domestic": "1000800 (27% so với cùng kỳ)",
+    "International": "250200 (20% so với cùng kỳ)",
+    "Growth": 0.25
+  },
+  {
+    "Year": "Quý III/2025 (dự báo)",
+    "TouristCount": 938000,
+    "Domestic": "750400 (20% so với cùng kỳ)",
+    "International": "187600 (12% so với cùng kỳ)",
+    "Growth": 0.18
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "name": "excel-model-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.4.1",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "xlsx": "^0.18.5"
+  }
+}
